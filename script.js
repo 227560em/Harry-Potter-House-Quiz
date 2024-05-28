@@ -94,7 +94,7 @@ function result() {
 
    }
    if (Ravenclaw == highest) {
-      document.getElementById("name").innerHTML = "The<b>Ravenclaw</b> House prized learning, wisdom, wit, and intellect in its members.Thus, many Ravenclaws tended to be academically motivated and talented students.";
+      document.getElementById("name").innerHTML = "The <b>Ravenclaw</b> House prized learning, wisdom, wit, and intellect in its members.Thus, many Ravenclaws tended to be academically motivated and talented students.";
       document.getElementById("image").src = "images/Ravenclaw.png";
 
    }
